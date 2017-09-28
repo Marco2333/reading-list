@@ -20,6 +20,11 @@
 推荐指数：3颗星 <br/>
 上榜理由：与大多数从框架层面讲解 Node 的书不同，本书从不同的视角介绍了 Node 内在的特点和结构。虽然名为 “深入浅出”，但是对于初学者来讲要一次读懂还是很困难的。<br/>
 
+### [Head First HTML与CSS（第2版）](http://pan.baidu.com/s/1pLQbe7x)
+![](https://github.com/Marco2333/reading-list/blob/master/cover/10.jpg)<br/>
+作者：Eric Freeman <br/>
+推荐指数：4颗星 <br/>
+上榜理由：HTML、CSS入门好书。从原理到方法都介绍得很详细，通俗易懂，活泼有趣。<br/>
 
 ### [JavaScript设计模式与开发实践](https://github.com/Marco2333/reading-list/tree/master/books/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B8%8E%E5%BC%80%E5%8F%91%E5%AE%9E%E8%B7%B5)
 ![](https://github.com/Marco2333/reading-list/blob/master/cover/4.jpg)<br/>
